@@ -8,3 +8,5 @@ if(i>j)
 System.out.print("a is grater");
 else
 System.out.print("b is grater");
+}
+}
